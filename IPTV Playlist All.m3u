@@ -226,7 +226,7 @@ http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/gazi_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla",GTV Globe
-http://telelivetv.webredirect.org:8081/globeworld2020/gaz/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla",GTV Roar
 http://tvserver.roarzone.info:2087/live/test/test/1.m3u8
@@ -433,7 +433,7 @@ http://tv.ebox.live:8080/live/sonyten-1.m3u8
 http://ddn.amrbd.com:8081/live/ten2hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="Sports",Sony Ten 2 Roar
-http://tvserver.roarzone.info:2087/live/test/test/55.m3u8
+http://tvserver.roarzone.info:2087/live/test/test/56.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="Sports",Sony Ten 2 EBox
 http://tv.ebox.live:8080/live/sonyten-2.m3u8
@@ -506,6 +506,15 @@ http://tv.ebox.live:8080/live/ptvsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image4ffb75efd1173ee5.png" group-title="Sports",PTV SPorts UN
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://roarmediazone.com/uploads/tv_image/sm/bein-sports.jpg" group-title="Sports", Bein Sports HD Roar
+http://tvserver.roarzone.info:2087/live/test/test/73.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",PPTV Roar
+http://tvserver.roarzone.info:2087/live/test/test/128.m3u8
+
+#EXTINF:-1 tvg-logo="http://roarmediazone.com/uploads/tv_image/sm/fox-sports.jpg" group-title="Sports",Fox Sports Roar
+http://tvserver.roarzone.info:2087/live/test/test/143.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Ad Sports 3 Amarbd
 http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
@@ -600,6 +609,9 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla", Colors Bangla Akamai
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Colors Bangla Roar
+http://tvserver.roarzone.info:2087/live/test/test/36.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Colors HD Bracnet
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
 
@@ -608,6 +620,12 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Colors SD Roar
 http://tvserver.roarzone.info:2087/live/test/test/13.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Aaj Tak
+https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live3/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://roarmediazone.com/uploads/tv_image/sm/romedy-now.jpg" group-title="English", Romedy Now Roar
+http://tvserver.roarzone.info:2087/live/test/test/138.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image0386dc143d5f54f8.png" group-title="English", Fox Life Bracnet
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
@@ -632,6 +650,9 @@ https://bracnet.iptv.jadoodigital.com/live/nhk_world/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English",NHKWorld Japan Akamai
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",ITV UK Akamai
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Nick Hindi Bracnet
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
@@ -756,6 +777,9 @@ http://ddn.amrbd.com:8081/live/9xm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Hindi",9XM Roar
 http://tvserver.roarzone.info:2087/live/test/test/90.m3u8
 
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Hindi",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hindi",9x0 Cloud
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 
@@ -782,6 +806,9 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",B4U Movies Roar
 http://tvserver.roarzone.info:2087/live/test/test/124.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",B4U Kadak Roar
+http://tvserver.roarzone.info:2087/live/test/test/132.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",B4U Plus Any
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/03.m3u8
@@ -915,6 +942,9 @@ http://ddn.amrbd.com:8081/live/mnx/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="English", MNX Roar
 http://tvserver.roarzone.info:2087/live/test/test/139.m3u8
 
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image039cf1d228e8503a.png" group-title="",Cartoon Network Roar
+http://tvserver.roarzone.info:2087/live/test/test/120.m3u8
+
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5715ec013ea026e8.png" group-title="Hindi",,Discovery Kids Hindi Multi
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 
@@ -957,6 +987,9 @@ http://tvserver.roarzone.info:2087/live/test/test/135.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image0ba94b273d731557.png" group-title="English", Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Hindi",DD Sports Roar
+http://tvserver.roarzone.info:2087/live/test/test/133.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="English",Nat Geo Wild Any
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
@@ -995,6 +1028,9 @@ https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s4.gifyu.com/images/imageab5309baa10a397c.png" group-title="Explore", Nat Geo People Roar
 http://tvserver.roarzone.info:2087/live/test/test/7.m3u8
+
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="http://roarmediazone.com/uploads/tv_image/sm/animal-planet.jpg" group-title="English"Animal Planet Roar
+http://tvserver.roarzone.info:2087/live/test/test/45.m3u8
 
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="Documentary",English Club Any
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8 
@@ -1045,6 +1081,18 @@ https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 
 #EXTINF:-1 tvg-logo= "" group-title="English",News Max Akamai
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",DW
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",DW India Akamai
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo= "" group-title="English",DW Latin Akamai
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",DW Akamai
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="" tvg-name="cnn" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=9.0.1" group-title="News",CNN Bracnet
 https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
