@@ -657,6 +657,9 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English",VH1 Bracnet
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="English",VH1 USA FTP
+http://185.59.223.82:8080/vh1/mpegts
+
 #EXTINF:-1 tvg-logo="" group-title="Chinese",YTN Bracnet
 https://bracnet.iptv.jadoodigital.com/live/ytn/chunks.m3u8
 
@@ -750,16 +753,31 @@ https://bracnet.iptv.jadoodigital.com/live/tlc_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Hindi",9XM Amarbd
 http://ddn.amrbd.com:8081/live/9xm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Hindi",9XM
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Hindi",9XM Roar
 http://tvserver.roarzone.info:2087/live/test/test/90.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",9x0 Cloud
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",9x0 Roar
+http://tvserver.roarzone.info:2087/live/test/test/92.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",9X Jalwa Roar
+http://tvserver.roarzone.info:2087/live/test/test/91.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English",Disney Channel Roar
+http://tvserver.roarzone.info:2087/live/test/test/126.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Hindi",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="संगीत",Pop Pataka
+#EXTINF:-1 tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="Hindi",Pop Pataka
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/WowMusic.in.png" group-title="संगीत",Wow Music
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/WowMusic.in.png" group-title="Hindi",Wow Music
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zoom.in.png" group-title="Hindi",Zoom Any
@@ -774,7 +792,7 @@ https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zoom.in.png" group-title="Hindi", Zoom Bracnet
 https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zing.in.png" group-title="संगीत",Zing
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Zing.in.png" group-title="Hindi",Zing ITPolly
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English",Movies Now AmarBD
@@ -974,17 +992,35 @@ https://cdn.jp.jpnettv.live/jptv/movieplus/chunklist_w1755571235.m3u8
 #EXTINF:-1 tvg-logo= "https://s4.gifyu.com/images/image27bc2ecca63b47ce.png" group-title="English",MTV Japan
 https://cdn.jp.jpnettv.live/jptv/mtv/chunklist_w1143981580.m3u8
 
-#EXTINF:-1 tvg-logo= "https://s4.gifyu.com/images/image27bc2ecca63b47ce.png" group-title="English",MTV Norway
+#EXTINF:-1 tvg-logo= "https://s4.gifyu.com/images/image27bc2ecca63b47ce.png" group-title="English",MTV Norway Akamai
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 tvg-logo= "https://s4.gifyu.com/images/image491b46d5acfbceae.png" group-title="Hindi",MTV Beats India
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
 #EXTINF:-1 tvg-logo= "" group-title="English",BBC World Bracnet
-https://triangle.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+https://bracnet.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",BBC World
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="cnn" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=9.0.1" group-title="News",CNN Bracnet
+https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",CBSN HD Akamai
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",CGTN UK
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="cnn" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=9.0.1" group-title="News",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w148876041_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="Hindi",NDTV 24x7 Akamai
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="Hindi",DD News Akamai
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SK1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sky_Sport_-_Logo_2018.svg/1280px-Sky_Sport_-_Logo_2018.svg.png" group-title="Sport",Sky Sports EPL Work
 https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
@@ -1034,7 +1070,7 @@ https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/MGM.us.png" group-title="Movies",MGM Scifi
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/MGM.us.png" group-title="Movies",MGM Scifi Akamai
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",Animal Planet Poland
