@@ -226,7 +226,7 @@ http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/gazi_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla",GTV Globe
-http://telelivetv.webredirect.org:8081/globeworld2020/gazitv/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/gaz/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla",GTV Roar
 http://tvserver.roarzone.info:2087/live/test/test/1.m3u8
@@ -774,8 +774,23 @@ http://tvserver.roarzone.info:2087/live/test/test/126.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Hindi",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="Hindi",B4U Music Roar
+http://tvserver.roarzone.info:2087/live/test/test/140.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hindi",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",B4U Movies Roar
+http://tvserver.roarzone.info:2087/live/test/test/124.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",B4U Plus Any
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/03.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Dil Se Akamai
+http://linear07hun-lh.akamaihd.net/i/se_1@673921/index_828_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Dil Se Roar
+http://tvserver.roarzone.info:2087/live/test/test/103.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="Hindi",Pop Pataka
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
@@ -951,6 +966,9 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="English",Nat Geo Wild Bracnet
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_wild/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="English",Nat Geo Wild FTP 
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="English",Nat Geo Roar
 http://tvserver.roarzone.info:2087/live/test/test/6.m3u8
 
@@ -1004,8 +1022,29 @@ https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 tvg-logo= "" group-title="English",BBC World Bracnet
 https://bracnet.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 
+#EXTINF:-1 tvg-logo= "" group-title="English",BBC World FTP
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 #EXTINF:-1 tvg-logo= "" group-title="English",BBC World
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",Bloomberg Asia Akamai
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",Bloomberg US Akamai
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",Bloomberg Europe Akamai
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",Bloomberg Australia Akamai
+https://liveprodapnortheast.akamaized.net/btv/desktop/aus_live.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",Fox News Akamai
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+
+#EXTINF:-1 tvg-logo= "" group-title="English",News Max Akamai
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="cnn" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=9.0.1" group-title="News",CNN Bracnet
 https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
@@ -1148,8 +1187,11 @@ http://super1.ideaiptv.com:8090/live/Unplugged/66122/21398.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HBO 3 RO
 http://super1.ideaiptv.com:8090/live/Unplugged/66122/21399.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Bollywood TV
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Bollywood TV
 http://super1.ideaiptv.com:8090/live/Unplugged/66122/27396.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Bollywood Classic Akamai
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1 tvg-logo="" group-title="",BBC Earth
 http://super1.ideaiptv.com:8090/live/Unplugged/66122/27387.m3u8
