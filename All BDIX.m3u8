@@ -1010,6 +1010,9 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8158e68fb5dc30c6.png" group-title="Akamai",TV5Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image385236ccb13920ab.png" group-title="Akamai",TV5Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea4e6c84601aa5139.png" group-title="103.144.200.7",B4U Music
 http://103.144.200.7:8080/hls/b4umusic/index.m3u8
 
@@ -1040,9 +1043,11 @@ http://103.144.200.7:8080/hls/dabang/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged803081d283d58c5.png" group-title="103.144.200.7",Enterr 10
 http://103.144.200.7:8080/hls/e10/index.m3u8
 
-#EXTINF:0
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea8ed27628cc5137f.png" group-title="BDIX",Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 
-#EXTINF:0
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image611d06745e8a8071.png" group-title="Akamai",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:0
 
