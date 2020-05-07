@@ -563,6 +563,9 @@ http://telelivetv.webredirect.org:8081/globeworld2020/starjalshamovies/chunks.m3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="FTPBD",Jalsha Movies
 http://103.58.73.26/streams/115/index.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="175.41.46.16",Jalsha Movies HD
+http://175.41.46.16:8081/hls/4.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image34273ab86d0c3d6d.png" group-title="KS",Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
@@ -631,6 +634,9 @@ https://bit.ly/3aJzT8R
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagedb12b5c45b153284.png" group-title="Akamai",Sony Max HD
 https://bit.ly/2KHAq0x
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagedb12b5c45b153284.png" group-title="175.41.46.16",Sony Max HD
+http://175.41.46.16:8081/hls/8.m3u8
 
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="AmrBD",Sony SAB
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
@@ -964,6 +970,12 @@ http://ddn.amrbd.com:8081/live/moviesnow/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-language="English" tvg-name="" tvg-logo="https://i.imgur.com/SAfu2jz.png" group-title="AmrBD",Star Movies
 http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-language="English" tvg-name="" tvg-logo="https://i.imgur.com/SAfu2jz.png" group-title="175.41.46.16",Star Movies HD
+http://175.41.46.16:8081/hls/2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-language="English" tvg-name="" tvg-logo="https://i.imgur.com/SAfu2jz.png" group-title="175.41.46.16",Star Movies HD
+http://175.41.46.16:8081/hls/3.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="KS",ZEE TV SD
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
