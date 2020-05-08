@@ -899,6 +899,12 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title="Akamai",RAI PREMIUM
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image27ed58d98dac6622.png" group-title="Akamai",Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image14c9aaa319f78741.png" group-title="Akamai",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagecd5200abe28d5e27.png" group-title="KS",Times Now
 https://itpolly.iptv.digijadoo.net/live/times_now/chunks.m3u8
 
@@ -1304,6 +1310,9 @@ https://bol.iptv.digijadoo.net/live/et_now/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image98a803280a70bd4f.png" group-title="Jadoo",ET Now
 https://edge01.iptv.digijadoo.net/live/et_now/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image98a803280a70bd4f.png" group-title="Akamai",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
 #EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/image5b9cd25f7a118e6a.png" group-title="KS",ABP News
 https://itpolly.iptv.digijadoo.net/live/abp_news/chunks.m3u8
 
@@ -1387,6 +1396,54 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8158e68fb5dc30c6.png" group-title="Akamai",TV5Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image66044d8fe3e3f1e6.png" group-title="Akamai",TV5Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image66044d8fe3e3f1e6.png" group-title="Akamai",TV5Monde Asie RU
+https://tv5asieru-i.akamaihd.net/hls/live/651800/tv5asieru/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image66044d8fe3e3f1e6.png" group-title="Akamai",TV5Monde Asie France
+https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image8bad0ff7b7992380.png" group-title="Akamai",BFM TV
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imaged5406bc4f3e09708.png" group-title="Akamai",Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image0a70ae098762141a.png" group-title="Akamai",Energy TV
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageb300d8d24d257e29.png" group-title="Akamai",EEN
+https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image52b5c673cb787717.png" group-title="Akamai",Ant1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecb7bc01f2a0cd1ec.png" group-title="Akamai",Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image9e575c42d64b6fb8.png" group-title="Akamai",Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imaged7240b83e531a021.png" group-title="Akamai",TCT Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image0acaa6b67f092a84.png" group-title="Akamai",Discovery Realtime
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image6e1d7a0172512676.png" group-title="Akamai",Discovery Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagee8143d7174e5c1c1.png" group-title="Akamai",Discovery Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image981c50b08fa90648.png" group-title="Akamai",Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image37a13e9ba3b5150c.png" group-title="Akamai",Boing Portuguese
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 #EXTINF:0 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="103.205.133.19",Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
