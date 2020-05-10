@@ -59,6 +59,9 @@ http://103.229.47.52/live/feed1003/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="103.205.133.14",Banglavision
 http://103.205.133.14/hls/banglavision.m3u8
 
+#EXTINF:0 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/Bangla-tv-logo-1_2-1.gif" group-title="ICC",Bangla TV
+http://103.205.133.42:1935/local/bangla_tv_hd_720/index.m3u8
+
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title="KS",Boishakhi
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 
@@ -85,6 +88,9 @@ http://103.229.47.52/live/feed1001/index.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="103.205.133.14",BTV
 http://103.205.133.14/hls/btv.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="ICC",BTV
+http://103.205.133.42:1935/local/btv_national_720/index.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title="KS",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
@@ -503,6 +509,9 @@ http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="103.205.133.14",Sony Six HD
 http://103.205.133.14/hls/sonysix.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="Akamai",Sony Six ICC
+http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="FTPBD",Sony Six
 http://103.58.73.26/streams/106/index.m3u8
 
@@ -532,6 +541,9 @@ http://103.68.116.50/live/feed1012/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="Akamai",Sony Ten 3 HD
 https://bit.ly/2S49snV
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="ICC",Sony Ten 3
+http://103.205.133.42:1935/local/ten_3_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="ColorsBD",PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
@@ -626,6 +638,9 @@ http://103.205.133.19/hls/zeebangla.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="TeleLive",Zee Bangla Cinema
 http://telelivetv.webredirect.org:8081/globeworld2020/zeebanglacinema/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="ICC",Zee Bangla Cinema
+http://103.205.133.42:1935/local/zee_bangla_cinema_720/chunklist.m3u8
+
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="KS",Ruposhi Bangla
 https://itpolly.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 
@@ -646,6 +661,12 @@ https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image69f48058c0af6e9b.png" group-title="VEZone",Sony Aath
 http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image69f48058c0af6e9b.png" group-title="ICC",Sony Aath
+http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://aakashaath.com/img/aakashaath_official_logo_white.png" group-title="ICC",Akash Aath
+http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="KS",SangeetBangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
@@ -697,6 +718,12 @@ https://bit.ly/2yVvYIJ
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Akamai",Sony Yay
 https://bit.ly/2YdGIwK
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="ICC",Sony Yay
+http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://static.epg.best/in/SonyPix.in.png" group-title="ICC",Sony Pix
+http://103.205.133.42:1935/local/sony_pix_720/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image925217a668e16348.png" group-title="English",Sony PIX HD
 https://bit.ly/2ShkUwm
@@ -898,6 +925,9 @@ https://bol.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8bdff3bcc6b442a.png" group-title="Jadoo",Rai Italia
 https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8bdff3bcc6b442a.png" group-title="ICC",Rai Italia
+http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title="Akamai",RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
@@ -1147,6 +1177,12 @@ https://bol.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
 
 #EXTINF:0 tvg-logo= "https://s6.gifyu.com/images/imagecbda5662cae435eb.png" group-title="Jadoo",Ary Zindigi
 https://edge01.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://static.epg.best/pk/ARYFamily.pk.png" group-title="ICC",ARY Family
+http://103.205.133.42:1935/local/ary_family_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://arydigital.tv/wp-content/uploads/2019/06/digital-logo.gif" group-title="ICC",ARY Digital
+http://103.205.133.42:1935/local/ary_digital_asia_720/index.m3u8
 
 #EXTINF:0 tvg-logo= "https://s6.gifyu.com/images/image88f9312753c0510c.png" group-title="KS",Geo News
 https://itpolly.iptv.digijadoo.net/live/geo_news/chunks.m3u8
