@@ -512,7 +512,7 @@ http://103.58.73.26/streams/105/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="AmrBD",Sony Ten 1 HD
 http://ddn.amrbd.com:8081/live/ten1hd/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="103.205.133.42",Sony Ten 1 HD
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="ICC",Sony Ten 1 HD
 http://103.205.133.42:1935/local/sony_ten1_hd_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="AmrBD",Sony Ten 2
@@ -521,7 +521,7 @@ http://ddn.amrbd.com:8081/live/ten2hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="Akamai",Sony Ten 2 UK
 https://bit.ly/2yApmiZ
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="AmrBD",Sony Ten 2 HD
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="ICC",Sony Ten 2 HD
 http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="AmrBD",Sony Ten 3
@@ -1457,10 +1457,10 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="103.205.133.19",Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
 
-#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="103.205.133.42",ABC Australia
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="ICC",ABC Australia
 http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
 
-#EXTINF:0 tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="103.205.133.42",Wion
+#EXTINF:0 tvg-logo="https://cdn.wionews.com/images/wion-logo.png" group-title="ICC",Wion
 http://103.205.133.42:1935/local/wion_tv_720/index.m3u8
 
 
