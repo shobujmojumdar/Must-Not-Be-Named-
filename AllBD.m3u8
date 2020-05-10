@@ -23,8 +23,11 @@ http://ddn.amrbd.com:8081/live/atnbangla/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="103.68.116.50",ATN Bangla
 http://103.68.116.50/live/feed1009/index.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagef146671a4e81c234.png" group-title="103.205.133.14",ATN Bangla
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagef146671a4e81c234.png" group-title="ICC 2",ATN Bangla
 http://103.205.133.14/hls/atnbangla.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagef146671a4e81c234.png" group-title="ICC 3",ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="KS",ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
@@ -34,6 +37,12 @@ https://bol.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Jadoo",ATN News
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="ICC 2",ATN News
+http://103.205.133.14/hls/atnnews.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="ICC 3",ATN News
+http://103.205.133.19/hls/atnnews.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="JagoBD",ATN Islamic
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
@@ -56,11 +65,20 @@ http://103.68.116.50/live/feed1003/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="103.229.47.52",Banglavision
 http://103.229.47.52/live/feed1003/index.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="103.205.133.14",Banglavision
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="ICC 2",Banglavision
 http://103.205.133.14/hls/banglavision.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="ICC 3",Banglavision
+http://103.205.133.19/hls/banglavision.m3u8
 
 #EXTINF:0 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/Bangla-tv-logo-1_2-1.gif" group-title="ICC",Bangla TV
 http://103.205.133.42:1935/local/bangla_tv_hd_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/Bangla-tv-logo-1_2-1.gif" group-title="ICC 2",Bangla TV
+http://103.205.133.14/hls/banglatv.m3u8
+
+#EXTINF:0 tvg-logo="https://banglatv.tv/wp-content/uploads/2018/10/Bangla-tv-logo-1_2-1.gif" group-title="ICC 3",Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title="KS",Boishakhi
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
@@ -80,17 +98,26 @@ https://bol.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Jadoo",BTV World
 https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="103.205.133.14",BTV World
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="ICC",BTV World
+http://103.205.133.42:1935/local/btv_world_720/index.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="ICC 2",BTV World
 http://103.205.133.14/hls/btvworld.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="ICC 3",BTV World
+http://103.205.133.19/hls/btvworld.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="103.229.47.52",BTV
 http://103.229.47.52/live/feed1001/index.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="103.205.133.14",BTV
-http://103.205.133.14/hls/btv.m3u8
-
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="ICC",BTV
 http://103.205.133.42:1935/local/btv_national_720/index.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="ICC 2",BTV
+http://103.205.133.14/hls/btv.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="ICC 3",BTV
+http://103.205.133.19/hls/btv.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title="KS",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
@@ -115,6 +142,15 @@ https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea32c5a5137612f83.png" group-title="AmrBD",Channel 24
 http://ddn.amrbd.com:8081/live/channel24/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea32c5a5137612f83.png" group-title="ICC",Channel 24
+http://103.205.133.42:1935/local/channel_24_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea32c5a5137612f83.png" group-title="ICC 2",Channel 24
+http://103.205.133.14/hls/channel24.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea32c5a5137612f83.png" group-title="ICC 3",Channel 24
+http://103.205.133.19/hls/channel24.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea32c5a5137612f83.png" group-title="103.144.200.7",Channel 24
 http://103.144.200.7:8080/hls/ch24sdi/index.m3u8
@@ -152,8 +188,14 @@ http://103.229.47.52/live/feed1004/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image6a63905664c85acc.png" group-title="175.41.46.16",DBC News
 http://175.41.46.16:8081/hls/5.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image6a63905664c85acc.png" group-title="103.205.133.14",DBC News
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image6a63905664c85acc.png" group-title="ICC",DBC News
+http://103.205.133.42:1935/local/dbc_news_720/index.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image6a63905664c85acc.png" group-title="ICC 2",DBC News
 http://103.205.133.14/hls/dbcnews.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image6a63905664c85acc.png" group-title="ICC 3",DBC News
+http://103.205.133.19/hls/dbcnews.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image6a63905664c85acc.png" group-title="Movply",DBC News
 http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
@@ -176,8 +218,11 @@ http://ddn.amrbd.com:8081/live/deepto/playlist.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image297305a5fb7672b4.png" group-title="TeleLive",Deepto TV
 http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image297305a5fb7672b4.png" group-title="103.205.133.14",Deepto TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image297305a5fb7672b4.png" group-title="ICC 2",Deepto TV
 http://103.205.133.14/hls/deeptotv.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image297305a5fb7672b4.png" group-title="ICC 3",Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="KS",Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
@@ -191,7 +236,13 @@ https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="TeleLive",Desh TV
 http://telelivetv.webredirect.org:8081/globeworld2020/desh/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="103.205.133.14",Desh TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="ICC",Desh TV
+http://103.205.133.42:1935/local/desh_tv_720/index.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="ICC 2",Desh TV
+http://103.205.133.14/hls/deshtv.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="ICC 3",Desh TV
 http://103.205.133.14/hls/deshtv.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="KS",Duronto TV
@@ -205,6 +256,12 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="TeleLive",Duronto TV
 http://telelivetv.webredirect.org:8081/globeworld2020/duronto/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="ICC 2",Duronto TV
+http://103.205.133.14/hls/duronto.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="ICC 3",Duronto TV
+http://103.205.133.19/hls/duronto.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="KS",Ekattor
 https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
@@ -233,6 +290,12 @@ http://ddn.amrbd.com:8081/live/ekushey/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="175.41.46.16",Ekushey TV
 http://175.41.46.16:8081/hls/11.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="ICC 2",Ekushey TV
+http://103.205.133.14/hls/ekushey.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="ICC 3",Ekushey TV
+http://103.205.133.19/hls/ekushey.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="TeleLive",Ekushey TV
 http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/chunks.m3u8
 
@@ -245,8 +308,11 @@ https://bol.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagefb124f46c264c954.png" group-title="Jadoo",Gaan Bangla
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagefb124f46c264c954.png" group-title="103.205.133.14",Gaan Bangla
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagefb124f46c264c954.png" group-title="ICC 2",Gaan Bangla
 http://103.205.133.14/hls/gaanbangla.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagefb124f46c264c954.png" group-title="ICC 3",Gaan Bangla
+http://103.205.133.19/hls/gaanbangla.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="KS",GTV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
@@ -296,6 +362,15 @@ http://103.68.116.50/live/feed1008/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="103.229.47.52",Independent
 http://103.229.47.52/live/feed1006/index.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="ICC",Independent
+http://103.205.133.42:1935/local/independent_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="ICC 2",Independent
+http://103.205.133.14/hls/independent.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="ICC 3",Independent
+http://103.205.133.19/hls/independent.m3u8
+
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="KS",JAMUNA TV
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 
@@ -311,8 +386,11 @@ http://ddn.amrbd.com:8081/live/jamuna/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="103.144.200.7",JAMUNA TV
 http://103.144.200.7:8080/hls/jamunatv/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="103.205.133.14",JAMUNA TV
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="ICC 2",JAMUNA TV
 http://103.205.133.14/hls/jamunatv.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="ICC 3",JAMUNA TV
+http://103.205.133.19/hls/jamunatv.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="KS",Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
@@ -350,6 +428,15 @@ http://ddn.amrbd.com:8081/live/mohona/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="TeleLive",MOHONA TV
 http://telelivetv.webredirect.org:8081/globeworld2020/mohona/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="ICC",MOHONA TV
+http://103.205.133.42:1935/local/mohona_tv_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="ICC 2",MOHONA TV
+http://103.205.133.14/hls/mohonatv.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="ICC 3",MOHONA TV
+http://103.205.133.19/hls/mohonatv.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="KS",MY TV
 https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 
@@ -359,8 +446,14 @@ https://bol.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Jadoo",MY TV
 https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="103.205.133.14",MY TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="ICC",MY TV
+http://103.205.133.42:1935/local/my_tv_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="ICC 2",MY TV
 http://103.205.133.14/hls/mytv.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="ICC 3",MY TV
+http://103.205.133.19/hls/mytv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagee66c10fdcc1ad59b.png" group-title="AmrBD",My TV HD
 http://ddn.amrbd.com:8081/live/mytv/playlist.m3u8
@@ -380,6 +473,12 @@ http://ddn.amrbd.com:8081/live/nagorik/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="TeleLive",Nagorik TV
 http://telelivetv.webredirect.org:8081/globeworld2020/nagoriktv/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="ICC 2",Nagorik TV
+http://103.205.133.14/hls/nagorik.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="ICC 3",Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image7072b27c481847bc.png" group-title="KS",News 24
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 
@@ -392,8 +491,11 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image7072b27c481847bc.png" group-title="175.41.46.16",News 24
 http://175.41.46.16:8081/hls/9.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image7072b27c481847bc.png" group-title="103.205.133.14",News 24
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image7072b27c481847bc.png" group-title="ICC 2",News 24
 http://103.205.133.14/hls/news24.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image7072b27c481847bc.png" group-title="ICC 3",News 24
+http://103.205.133.19/hls/news24.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image75d074dd320e7f74.th.png" group-title="KS",NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
@@ -413,8 +515,11 @@ http://103.68.116.50/live/feed1004/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image75d074dd320e7f74.th.png" group-title="TeleLive",NTV
 http://telelivetv.webredirect.org:8081/globeworld2020/ntv/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image75d074dd320e7f74.th.png" group-title="103.205.133.14",NTV
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image75d074dd320e7f74.th.png" group-title="ICC 2",NTV
 http://103.205.133.14/hls/ntv.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image75d074dd320e7f74.th.png" group-title="ICC 3",NTV
+http://103.205.133.19/hls/ntv.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="KS",RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
@@ -428,8 +533,11 @@ https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="AmrBD",RTV
 http://ddn.amrbd.com:8081/live/rtv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="103.205.133.14",RTV
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="ICC 2",RTV
 http://103.205.133.14/hls/rtv.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="ICC 3",RTV
+http://103.205.133.19/hls/rtv.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="KS",Sangsad TV
 https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
@@ -449,8 +557,11 @@ https://bol.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="Jadoo",SATV
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="103.205.133.14",SATV
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="ICC 2",SATV
 http://103.205.133.14/hls/satv.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="ICC 3",SATV
+http://103.205.133.19/hls/satv.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="KS",Shomoy TV
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
@@ -472,6 +583,15 @@ http://ddn.amrbd.com:8081/live/somoy/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="FTPBD",Shomoy TV
 http://103.58.73.26/streams/103/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="ICC",Shomoy TV
+http://103.205.133.42:1935/local/somoy_tv_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="ICC 2",Shomoy TV
+http://103.205.133.14/hls/somoy.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="ICC 3",Shomoy TV
+http://103.205.133.19/hls/somoy.m3u8
 
 #EXTINF:0 tvg-logo="https://imrmoni.xtgem.com/tv/probashibangla.png" group-title="KS",Probashi Bangla
 https://itpolly.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
@@ -503,20 +623,29 @@ http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="Akamai",Sony Six HD
 https://bit.ly/3aOi4pl
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="103.205.133.19",Sony Six HD
-http://103.205.133.19/hls/sonysix.m3u8
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="103.205.133.14",Sony Six HD
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="ICC 2",Sony Six HD
 http://103.205.133.14/hls/sonysix.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="ICC",Sony Six
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="ICC 3",Sony Six HD
+http://103.205.133.19/hls/sonysix.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="ICC",Sony Six HD
 http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="ICC",Sony Six
+http://103.205.133.42:1935/local/sony_six_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="FTPBD",Sony Six
 http://103.58.73.26/streams/106/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="FTPBD",Sony Ten 1
 http://103.58.73.26/streams/105/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="ICC 2",Sony Ten 1
+http://103.205.133.14/hls/ten1.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="ICC 3",Sony Ten 1
+http://103.205.133.19/hls/ten1.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="AmrBD",Sony Ten 1 HD
 http://ddn.amrbd.com:8081/live/ten1hd/playlist.m3u8
@@ -527,6 +656,12 @@ http://103.205.133.42:1935/local/sony_ten1_hd_720/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="AmrBD",Sony Ten 2
 http://ddn.amrbd.com:8081/live/ten2hd/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="ICC 2",Sony Ten 2
+http://103.205.133.14/hls/ten2.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="ICC 3",Sony Ten 2
+http://103.205.133.19/hls/ten2.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="Akamai",Sony Ten 2 UK
 https://bit.ly/2yApmiZ
 
@@ -536,14 +671,20 @@ http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="AmrBD",Sony Ten 3
 http://ddn.amrbd.com:8081/live/ten3hd/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="ICC",Sony Ten 3
+http://103.205.133.42:1935/local/ten_3_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="ICC 2",Sony Ten 3
+http://103.205.133.14/hls/ten3.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="ICC 3",Sony Ten 3
+http://103.205.133.19/hls/ten3.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="103.68.116.50",Sony Ten 3
 http://103.68.116.50/live/feed1012/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="Akamai",Sony Ten 3 HD
 https://bit.ly/2S49snV
-
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1a18245b1f6cb617.png" group-title="ICC",Sony Ten 3
-http://103.205.133.42:1935/local/ten_3_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="ColorsBD",PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
@@ -629,10 +770,10 @@ http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image34273ab86d0c3d6d.png" group-title="ICC",Zee Bangla
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image34273ab86d0c3d6d.png" group-title="103.205.133.14",Zee Bangla
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image34273ab86d0c3d6d.png" group-title="ICC 2",Zee Bangla
 http://103.205.133.14/hls/zeebangla.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image34273ab86d0c3d6d.png" group-title="103.205.133.19",Zee Bangla
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image34273ab86d0c3d6d.png" group-title="ICC 3",Zee Bangla
 http://103.205.133.19/hls/zeebangla.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="TeleLive",Zee Bangla Cinema
@@ -650,6 +791,12 @@ https://bol.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="Jadoo",Ruposhi Bangla
 https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="ICC 2",Ruposhi Bangla
+http://103.205.133.14/hls/ruposhibangla.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="ICC 3",Ruposhi Bangla
+http://103.205.133.19/hls/ruposhibangla.m3u8
+
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image97e9a86cc3e3991d.png" group-title="KS",Tara Bangla
 https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
 
@@ -664,6 +811,12 @@ http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image69f48058c0af6e9b.png" group-title="ICC",Sony Aath
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image69f48058c0af6e9b.png" group-title="ICC 2",Sony Aath
+http://103.205.133.14/hls/sony8.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image69f48058c0af6e9b.png" group-title="ICC 3",Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
 
 #EXTINF:0 tvg-logo="https://aakashaath.com/img/aakashaath_official_logo_white.png" group-title="ICC",Akash Aath
 http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
@@ -680,8 +833,20 @@ https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="AmrBD",SangeetBangla
 http://ddn.amrbd.com:8081/live/sangeetbangla/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="ICC",SangeetBangla
+http://103.205.133.42:1935/local/sangeet_bangla_720/index.m3u8
+
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="103.68.116.50",SangeetBangla
 http://103.68.116.50/live/feed1010/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="ICC",& TV
+http://103.205.133.42:1935/local/ntv_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="ICC 2",& TV
+http://103.205.133.14/hls/andtv.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="ICC 3",& TV
+http://103.205.133.19/hls/andtv.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="MovPly",Sony
 http://fr-c.movply.stream/hls/Zee_Bangla.m3u8
@@ -689,11 +854,20 @@ http://fr-c.movply.stream/hls/Zee_Bangla.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="103.111.120.46",Sony
 http://103.111.120.46/hls/Zee_Bangla.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="ICC",Sony
+http://103.205.133.42:1935/local/sony_entertainment_720/index.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Akamai",Sony HD
 https://bit.ly/2y8X7Ik
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea103c95e55ade339.png" group-title="ICC",Sony Max
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea103c95e55ade339.png" group-title="ICC 2",Sony Max
+http://103.205.133.14/hls/sonymax.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea103c95e55ade339.png" group-title="ICC 3",Sony Max
+http://103.205.133.19/hls/sonymax.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea103c95e55ade339.png" group-title="Akamai",Sony Max
 https://bit.ly/3aJzT8R
@@ -707,6 +881,15 @@ http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="AmrBD",Sony SAB
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="ICC",Sony SAB
+http://103.205.133.42:1935/local/sony_sab_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="ICC 2",Sony SAB
+http://103.205.133.14/hls/sonysab.m3u8
+
+#EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="ICC 3",Sony SAB
+http://103.205.133.19/hls/sonysab.m3u8
+
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Akamai",Sony SAB HD
 https://bit.ly/2zGNgKf
 
@@ -716,6 +899,9 @@ https://bit.ly/2W7jupA
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19f43895d8d4a129.png" group-title="Akamai",Sony BBC Earth
 https://bit.ly/2yVvYIJ
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19f43895d8d4a129.png" group-title="ICC",Sony BBC Earth
+http://103.205.133.42:1935/local/sony_bbc_earth_hd_720/chunklist.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Akamai",Sony Yay
 https://bit.ly/2YdGIwK
 
@@ -724,6 +910,12 @@ http://103.205.133.42:1935/local/sony_yay_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.epg.best/in/SonyPix.in.png" group-title="ICC",Sony Pix
 http://103.205.133.42:1935/local/sony_pix_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://static.epg.best/in/SonyPix.in.png" group-title="ICC 2",Sony Pix
+http://103.205.133.14/hls/sonypix.m3u8
+
+#EXTINF:0 tvg-logo="https://static.epg.best/in/SonyPix.in.png" group-title="ICC 3",Sony Pix
+http://103.205.133.19/hls/sonypix.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image925217a668e16348.png" group-title="English",Sony PIX HD
 https://bit.ly/2ShkUwm
@@ -859,6 +1051,9 @@ https://bol.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2dc8ba64277b38aa.png" group-title="Jadoo",Lotus Macaw
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image2dc8ba64277b38aa.png" group-title="ICC",Lotus Macaw
+http://103.205.133.42:1935/local/lotus_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image9ca9df93962ace41.png" group-title="KS",Arirang
 https://itpolly.iptv.digijadoo.net/live/arirang/chunks.m3u8
@@ -1001,8 +1196,23 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="ICC",Zee Cinema
 http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="ICC 2",Zee Cinema
+http://103.205.133.14/hls/zeecinema.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="ICC 3",Zee Cinema
+http://103.205.133.19/hls/zeecinema.m3u8
+
 #EXTINF:0 tvg-logo="https://hindi.cdn.zeenews.com/images/zee-hindustan-orange-english.png" group-title="103.144.200.7",Zee Hindustan
 http://103.144.200.7:8080/hls/zeetv/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image0cd130d321d7d86c.png" group-title="ICC",Zee Action
+http://103.205.133.42:1935/local/zee_action_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image0cd130d321d7d86c.png" group-title="ICC 2",Zee Action
+http://103.205.133.14/hls/zeeaction.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image0cd130d321d7d86c.png" group-title="ICC 3",Zee Action
+http://103.205.133.19/hls/zeeaction.m3u8
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/in/StarPlus.in.png" group-title="KS",Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
@@ -1061,7 +1271,10 @@ https://bol.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="Jadoo",Star Bharat
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="103.205.133.19",Star Bharat
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="ICC 2",Star Bharat
+http://103.205.133.14/hls/starbharat.m3u8
+
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/in/StarBharat.in.png" group-title="ICC 3",Star Bharat
 http://103.205.133.19/hls/starbharat.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="KS",Star Gold 2
@@ -1076,6 +1289,18 @@ https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="AmrBD",9XM
 http://ddn.amrbd.com:8081/live/9xm/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="ICC",9XM
+http://103.205.133.42:1935/local/9xm_720/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="ICC 2",9XM
+http://103.205.133.14/hls/9xm.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="ICC 3",9XM
+http://103.205.133.19/hls/9xm.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagea5b4033cf13f8b8a.png" group-title="ICC",Music India
+http://103.205.133.42:1935/local/music_india_720/index.m3u8
+
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="KS",TLC HD English
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
@@ -1084,6 +1309,18 @@ https://bol.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="Jadoo",TLC HD English
 https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="ICC",TLC HD Hindi
+http://103.205.133.42:1935/local/tlc_hd_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="ICC",TLC English
+http://103.205.133.42:1935/local/tlc_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="ICC 2",TLC English
+http://103.205.133.14/hls/tlc.m3u8
+
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="ICC 3",TLC English
+http://103.205.133.19/hls/tlc.m3u8
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/de/TLC.de.png" group-title="AmrBD",TLC Hindi
 http://ddn.amrbd.com:8081/live/history/playlist.m3u8
@@ -1193,6 +1430,15 @@ https://bol.iptv.digijadoo.net/live/geo_news/chunks.m3u8
 #EXTINF:0 tvg-logo= "https://s6.gifyu.com/images/image88f9312753c0510c.png" group-title="Jadoo",Geo News
 https://edge01.iptv.digijadoo.net/live/geo_news/chunks.m3u8
 
+#EXTINF:0 tvg-logo= "https://s6.gifyu.com/images/image88f9312753c0510c.png" group-title="ICC",Geo News
+http://103.205.133.42:1935/local/geo_news_720/index.m3u8
+
+#EXTINF:0 tvg-logo= "https://s6.gifyu.com/images/image88f9312753c0510c.png" group-title="ICC 2",Geo News
+http://103.205.133.14/hls/geonews.m3u8
+
+#EXTINF:0 tvg-logo= "https://s6.gifyu.com/images/image88f9312753c0510c.png" group-title="ICC 3",Geo News
+http://103.205.133.19/hls/geonews.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="KS",Movies Now
 https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 
@@ -1223,8 +1469,11 @@ https://bol.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Jadoo",ZEE TV SD
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="103.205.133.14",ZEE TV SD
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ICC 2",ZEE TV SD
 http://103.205.133.14/hls/zeetv.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="ICC 3",ZEE TV SD
+http://103.205.133.19/hls/zeetv.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WyUSQok.png" group-title="KS",Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
@@ -1262,6 +1511,18 @@ https://bol.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageab5309baa10a397c.png" group-title="Jadoo", Nat Geo People
 https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png" group-title="ICC",Animal Planet HD
+http://103.205.133.42:1935/local/animal_planet_hd_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://static.epg.best/cz/AnimalPlanet.cz.png" group-title="ICC",Animal Planet SD
+http://103.205.133.42:1935/local/animal_planet_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="ICC",Discovery HD
+http://103.205.133.42:1935/local/discovery_hd_720/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="ICC",Discovery SD
+http://103.205.133.42:1935/local/discovery_720/chunklist.m3u8
+
 #EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/image491b46d5acfbceae.png" group-title="KS",MTV Beats India
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
@@ -1280,7 +1541,10 @@ https://bol.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
 #EXTINF:0 tvg-logo= "https://s6.gifyu.com/images/imaged82d1d23cd8e19b5.png" group-title="Jadoo",B4U Music
 https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
 
-#EXTINF:0 tvg-logo= "https://s6.gifyu.com/images/image191d4c4ffa1c25fc.png" group-title="103.205.133.19",B4U Movies
+#EXTINF:0 tvg-logo= "https://s6.gifyu.com/images/image191d4c4ffa1c25fc.png" group-title="ICC 2",B4U Movies
+http://103.205.133.14/hls/b4umovies.m3u8
+
+#EXTINF:0 tvg-logo= "https://s6.gifyu.com/images/image191d4c4ffa1c25fc.png" group-title="ICC 3",B4U Movies
 http://103.205.133.19/hls/b4umovies.m3u8
 
 #EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/imagead3fb5d12cbf600c.png" group-title="KS",BBC World
@@ -1301,6 +1565,15 @@ https://bol.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 #EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/imagefa9969b2018bbe12.png" group-title="Jadoo",Al Jazeera
 https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 
+#EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/imagefa9969b2018bbe12.png" group-title="ICC",Al Jazeera
+http://103.205.133.42:1935/local/aljazeera_720/index.m3u8
+
+#EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/imagefa9969b2018bbe12.png" group-title="ICC 2",Al Jazeera
+http://103.205.133.14/hls/aljazeera.m3u8
+
+#EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/imagefa9969b2018bbe12.png" group-title="ICC 3",Al Jazeera
+http://103.205.133.19/hls/aljazeera.m3u8
+
 #EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/image793c66a1c57aad22.png" group-title="Akamai",NBC News
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 
@@ -1316,6 +1589,9 @@ https://edge01.iptv.digijadoo.net/live/dw/chunks.m3u8
 #EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/image51d60ba821530f6d.png" group-title="Akamai",DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/image51d60ba821530f6d.png" group-title="ICC",DW
+http://103.205.133.42:1935/local/dw_720/chunklist.m3u8
+
 #EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/imagea68375712ad989ca.png" group-title="KS",Euronews
 https://itpolly.iptv.digijadoo.net/live/euro_news/chunks.m3u8
 
@@ -1324,6 +1600,15 @@ https://bol.iptv.digijadoo.net/live/euro_news/chunks.m3u8
 
 #EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/imagea68375712ad989ca.png" group-title="Jadoo",Euronews
 https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
+
+#EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/imagea68375712ad989ca.png" group-title="ICC",Euronews
+http://103.205.133.42:1935/local/euro_news_720/index.m3u8
+
+#EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/imagea68375712ad989ca.png" group-title="ICC 2",Euronews
+http://103.205.133.14/hls/euronews.m3u8
+
+#EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/imagea68375712ad989ca.png" group-title="ICC 3",Euronews
+http://103.205.133.19/hls/euronews.m3u8
 
 #EXTINF:0 tvg-logo= "https://s4.gifyu.com/images/image45e361108135de66.png" group-title="KS",CNA
 https://itpolly.iptv.digijadoo.net/live/channel_news/chunks.m3u8
@@ -1490,8 +1775,14 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image37a13e9ba3b5150c.png" group-title="Akamai",Boing Portuguese
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="103.205.133.19",Wow Cinema
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="ICC 2",Wow Cinema
+http://103.205.133.14/hls/wowcinema.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="ICC 3",Wow Cinema
 http://103.205.133.19/hls/wowcinema.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image6fcdb8e44782ec67.png" group-title="ICC",Wow Music
+http://103.205.133.42:1935/local/wow_music_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="ICC",ABC Australia
 http://103.205.133.42:1935/local/australia_plus_720/index.m3u8
