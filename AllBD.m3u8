@@ -509,7 +509,7 @@ http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="103.205.133.14",Sony Six HD
 http://103.205.133.14/hls/sonysix.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="Akamai",Sony Six ICC
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="ICC",Sony Six
 http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="FTPBD",Sony Six
