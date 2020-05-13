@@ -389,6 +389,9 @@ http://103.111.120.46/hls/gazi-tv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="CinemaBazar",GTV
 http://103.81.104.222/live/gtv/index.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="MovieBoxBD",GTV
+http://103.231.228.229/hls/HDMI-EARTEL1.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="KS",Independent
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 
@@ -589,6 +592,9 @@ http://103.205.133.19/hls/ntv.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="KITV",NTV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/112.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="MovieBoxBD",NTV
+http://103.231.228.229/hls/HDMI-EARTEL2.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="KS",RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
@@ -1294,6 +1300,9 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/153.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="CinemaBazar",HBO
 http://103.81.104.222/live/hbo/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="MovieBoxBD",HBO
+http://103.231.228.229/hls/HDMI-EARTEL3.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/NF7kDmc.png" group-title="KS",Colors Rishtey
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
@@ -2585,3 +2594,78 @@ http://cdn.banglatv.xyz/beeiptv-stb/colors/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Others",Discovery SD Hindi
 http://cdn.banglatv.xyz/beeiptv-stb/discovery/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Others",Nat Geo Wild
+https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Others",Discovery HD
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/kqdnNHB.png" group-title="Others",Discovery Asia
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Others",Animal Planet
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image029be7097122b523.png" group-title="Others",History
+https://delivery.macan.live/stream/history/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2oEJ80x.png" group-title="Others",TLC
+https://delivery.macan.live/stream/tlc/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pWFkudH.png" group-title="Others",Boomerang
+https://delivery.macan.live/stream/boomerang/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="Others",Nick
+https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/tkQ26PA.png" group-title="Others",Disney Channel
+https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Others",Cartoon Network
+https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/C5hYhNu.png" group-title="Others",Zoomoo TV
+https://delivery.macan.live/stream/zoomoo/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/o0a1MO4.png" group-title="Others",HGTV
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NwVG8Dr.png" group-title="Others",Cinemax
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/CCe6x1k.png" group-title="Others",Asian Food Network
+https://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xOKgf94.png" group-title="Others",Fox
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Others",HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gpWWPV3.jpg" group-title="Others",FX
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5aWkizn.png" group-title="Others",Channel V
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/d2VZqAQ.png" group-title="Others",Warner Bros TV
+https://delivery.macan.live/stream/warnertv/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/YkeMePU.png" group-title="Others",Lifetime
+https://delivery.macan.live/stream/lifetime/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="Others",AXN
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="Others",Fox Life
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",BBC World
+https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Lx4FDMJ.png" group-title="Others",TransTV
+https://delivery.macan.live/stream/id_transtv/index.m3u8?token=gratisan
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/0OYQYvR.png" group-title="Others",Animax
+https://delivery.macan.live/stream/id_animax/index.m3u8?token=gratisan
