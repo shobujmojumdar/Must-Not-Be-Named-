@@ -1007,6 +1007,9 @@ http://103.81.104.222/live/sony-ten-03/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Akamai",Sony Ten 3 HD
 https://bit.ly/2S49snV
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/csu0wPy.png" group-title="CinemaBazar",Ten Cricket
+http://103.81.104.222/live/ten-cricket/index.m3u8
+
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="ColorsBD",PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 
@@ -2471,4 +2474,114 @@ http://45.126.83.51/qwr9ew/s/s39/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/kF4IuuV.png" group-title="Others",V Channel
 http://45.126.83.51/qwr9ew/s/s41/index.m3u8
 
-http://45.126.83.51/qwr9ew/s/s19/index.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Others",GTV
+http://cdn.banglatv.xyz/beeiptv-stb/gazitv/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="Others",SATV
+http://cdn.banglatv.xyz/beeiptv-stb/satv/chunks.m3u8
+
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Others",Asian TV
+http://cdn.banglatv.xyz/beeiptv-stb/asian/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Others",ATN Bangla
+http://cdn.banglatv.xyz/beeiptv-stb/atnbangla/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Others",ATN News
+http://cdn.banglatv.xyz/beeiptv-stb/atnnews/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Others",Banglavision
+http://cdn.banglatv.xyz/beeiptv-stb/banglavision/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Others",Bangla TV
+http://cdn.banglatv.xyz/beeiptv-stb/banglatv/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title="Others",Boishakhi
+http://cdn.banglatv.xyz/beeiptv-stb/boishakhi/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="Others",BTV
+http://cdn.banglatv.xyz/beeiptv-stb/btv/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title="Others",Channel 9
+http://cdn.banglatv.xyz/beeiptv-stb/channel9/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Others",CHANNEL 24
+http://cdn.banglatv.xyz/beeiptv-stb/channel24/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Others",Channel I
+http://cdn.banglatv.xyz/beeiptv-stb/channeli/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Others",DBC News
+http://cdn.banglatv.xyz/beeiptv-stb/dbcnews/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Others",Deepto TV
+http://cdn.banglatv.xyz/beeiptv-stb/deepto/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Others",Ekattor
+http://cdn.banglatv.xyz/beeiptv-stb/ekattor/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Others",Ekushey TV
+http://cdn.banglatv.xyz/beeiptv-stb/ekushey/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Others",Gaan Bangla
+http://cdn.banglatv.xyz/beeiptv-stb/gaanbangla/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Others",Independent
+http://cdn.banglatv.xyz/beeiptv-stb/independent/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Others",JAMUNA TV
+http://cdn.banglatv.xyz/beeiptv-stb/jamuna/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Others",Maasranga
+http://cdn.banglatv.xyz/beeiptv-stb/maasranga/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Others",MOHONA TV
+http://cdn.banglatv.xyz/beeiptv-stb/mohona/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Others",MY TV
+http://cdn.banglatv.xyz/beeiptv-stb/mytv/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Others",News 24
+http://cdn.banglatv.xyz/beeiptv-stb/news24/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Others",Shomoy TV
+http://cdn.banglatv.xyz/beeiptv-stb/somoy/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Others",RTV
+http://cdn.banglatv.xyz/beeiptv-stb/rtv/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Others",NTV
+http://cdn.banglatv.xyz/beeiptv-stb/ntv/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Others",Zee Bangla
+http://cdn.banglatv.xyz/beeiptv-stb/zeebangla/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Others",Star Jalsha
+http://cdn.banglatv.xyz/beeiptv-stb/starjalsha/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Others",Jalsha Movies
+http://cdn.banglatv.xyz/beeiptv-stb/jalshamovies/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Others",Sony Six HD
+http://cdn.banglatv.xyz/beeiptv-stb/sonysix/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Others",Sony Ten 1 HD
+http://cdn.banglatv.xyz/beeiptv-stb/ten1/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Others",Sony Ten 2 HD
+http://cdn.banglatv.xyz/beeiptv-stb/ten2/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Akamai",Sony Ten 3
+http://cdn.banglatv.xyz/beeiptv-stb/ten3/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Others",PTV Sports
+http://cdn.banglatv.xyz/beeiptv-stb/ptv/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Others",Sony Max HD
+http://cdn.banglatv.xyz/beeiptv-stb/sonymax/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Others",Colors HD
+http://cdn.banglatv.xyz/beeiptv-stb/colors/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Others",Discovery SD Hindi
+http://cdn.banglatv.xyz/beeiptv-stb/discovery/chunks.m3u8
